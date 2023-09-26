@@ -13,4 +13,4 @@ Code line " potential_outliers = final_tumor_vol_filtered[(final_tumor_vol_filte
 
 Line & Scatter Plots - used bingchat for structure and parameter help to build similar graph as provided
 
-Correlation and Regression - utilized chatgpt for the correlation_coefficient workaround due to a constant ("ValueError: too many values to unpack (expected 1)"). used the following code addition: correlation_coefficient, "_" = st.pearsonr(.. . "_" helped with the ValueError.
+Correlation and Regression - utilized chatgpt for the correlation_coefficient workaround due to a constant ("ValueError: too many values to unpack (expected 1)"). used the following code addition: correlation_coefficient, "_" = st.pearsonr(.. . "_" helped with the ValueError. " _ " to an underscore
